@@ -1,0 +1,2 @@
+# All-shorts
+BASIC SORTING SOLUTIONS IN C++
